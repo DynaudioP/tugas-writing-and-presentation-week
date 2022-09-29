@@ -182,7 +182,7 @@ Tag yang digunakan untuk membuat sebuah paragraf/tulisan
 ```
 - tag b dan i
 
-Tag yang digunakan untuk membuat tulisan tebal(<b>) dan miring(<i>)
+Tag yang digunakan untuk membuat tulisan tebal(b) dan miring(i)
 ```HTML
 <p><b>Hai teman</b></p>
 <p><i>Hai teman</i></p>
