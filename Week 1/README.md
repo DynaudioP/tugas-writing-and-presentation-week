@@ -135,7 +135,7 @@ HTML memiliki kerangka seperti dibawah ini.
 </html>
 ```
 ### Tag HTML
-- <html>
+- html
 Berfungsi untuk tag yang menandakan proses mulai menuliskan kode program pada dokumen HTML.
 ```HTML
 <html>
@@ -157,44 +157,44 @@ Tag ini digunakan untuk menambahkan metadata ke dalam dokumen html yang berisi j
     <title>Document</title>
 </head>
 ```
-- <body>
+- body
 Tag body digunakan sebagai tempat untuk menuliskan setiap elemen atau lebih tepatnya disebut juga dengan konten pada HTML itu sendiri.
 ```HTML
 <body>
     <p>Halo</p>
 </body>
 ```
-- <h1> dan <h6>
+- h1 dan h6
 Tag yang digunakan untuk membuat heading pada di website. hierarki ukuran font tertinggi untuk <h> berada pada <h1>.
 ```HTML
 <h1>Hai teman</h1>
 ```
 
-- <p>
+- p
 Tag yang digunakan untuk membuat sebuah paragraf/tulisan
 ```HTML
 <p>Hai teman</p>
 ```
-- <b> dan <i>
+- b dan i
 Tag yang digunakan untuk membuat tulisan tebal(<b>) dan miring(<i>)
 ```HTML
 <p><b>Hai teman</b></p>
 <p><i>Hai teman</i></p>
 ```
 
-- <a>
+- a
 Tag yang digunakan untuk menyertakan link di tulisan yang dapat di-klik
 ```HTML
 <p><a href="">Hai Teman</a></p>
 ```
 
-- <img>
+- img
 Tag yang digunakan untuk menampilkan gambar
 ```HTML
 <img src="https://e7.pngegg.com/pngimages/471/1009/png-clipart-lion-graphy-lion-mammal-animals-thumbnail.png" alt="singa">
 ```
 
-- <ol> dan <ul>
+- ol dan ul
 Tag yang digunakan untuk membuat list.
 ```HTML
 <ol>
@@ -209,7 +209,7 @@ Tag yang digunakan untuk membuat list.
 </ul>
 ```
 
-- <div>
+- div
 Tag yang digunakan untuk membungkus tag-tag lain dan biasa digunakan untuk menetukan section seperti header,main,footer dll. 
 ```html
     <div>
