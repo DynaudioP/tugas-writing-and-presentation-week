@@ -164,37 +164,37 @@ Tag body digunakan sebagai tempat untuk menuliskan setiap elemen atau lebih tepa
     <p>Halo</p>
 </body>
 ```
-- h1 dan h6
+- tag h1 dan h6
 Tag yang digunakan untuk membuat heading pada di website. hierarki ukuran font tertinggi untuk <h> berada pada <h1>.
 ```HTML
 <h1>Hai teman</h1>
 ```
 
-- p
+- tag p
 Tag yang digunakan untuk membuat sebuah paragraf/tulisan
 ```HTML
 <p>Hai teman</p>
 ```
-- b dan i
+- tag b dan i
 Tag yang digunakan untuk membuat tulisan tebal(<b>) dan miring(<i>)
 ```HTML
 <p><b>Hai teman</b></p>
 <p><i>Hai teman</i></p>
 ```
 
-- a
+- tag a
 Tag yang digunakan untuk menyertakan link di tulisan yang dapat di-klik
 ```HTML
 <p><a href="">Hai Teman</a></p>
 ```
 
-- img
+- tag img
 Tag yang digunakan untuk menampilkan gambar
 ```HTML
 <img src="https://e7.pngegg.com/pngimages/471/1009/png-clipart-lion-graphy-lion-mammal-animals-thumbnail.png" alt="singa">
 ```
 
-- ol dan ul
+- tag ol dan ul
 Tag yang digunakan untuk membuat list.
 ```HTML
 <ol>
@@ -209,7 +209,7 @@ Tag yang digunakan untuk membuat list.
 </ul>
 ```
 
-- div
+- Tag div
 Tag yang digunakan untuk membungkus tag-tag lain dan biasa digunakan untuk menetukan section seperti header,main,footer dll. 
 ```html
     <div>
