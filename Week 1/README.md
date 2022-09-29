@@ -164,7 +164,7 @@ Tag body digunakan sebagai tempat untuk menuliskan setiap elemen atau lebih tepa
     <p>Halo</p>
 </body>
 ```
-- <h1> sampai <h6>
+- <h1> dan <h6>
 Tag yang digunakan untuk membuat heading pada di website. hierarki ukuran font tertinggi untuk <h> berada pada <h1>.
 ```HTML
 <h1>Hai teman</h1>
