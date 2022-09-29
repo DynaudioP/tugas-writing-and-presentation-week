@@ -135,7 +135,8 @@ HTML memiliki kerangka seperti dibawah ini.
 </html>
 ```
 ### Tag HTML
-- html
+- Tag html
+
 Berfungsi untuk tag yang menandakan proses mulai menuliskan kode program pada dokumen HTML.
 ```HTML
 <html>
@@ -147,7 +148,8 @@ Berfungsi untuk tag yang menandakan proses mulai menuliskan kode program pada do
     </body>
 </html>
 ```
-- <head>
+- Tag head
+
 Tag ini digunakan untuk menambahkan metadata ke dalam dokumen html yang berisi judul, deskripsi, library dan lain sebagainya.
 ```HTML
 <head>
@@ -158,6 +160,7 @@ Tag ini digunakan untuk menambahkan metadata ke dalam dokumen html yang berisi j
 </head>
 ```
 - body
+
 Tag body digunakan sebagai tempat untuk menuliskan setiap elemen atau lebih tepatnya disebut juga dengan konten pada HTML itu sendiri.
 ```HTML
 <body>
@@ -165,17 +168,20 @@ Tag body digunakan sebagai tempat untuk menuliskan setiap elemen atau lebih tepa
 </body>
 ```
 - tag h1 dan h6
+
 Tag yang digunakan untuk membuat heading pada di website. hierarki ukuran font tertinggi untuk <h> berada pada <h1>.
 ```HTML
 <h1>Hai teman</h1>
 ```
 
 - tag p
+
 Tag yang digunakan untuk membuat sebuah paragraf/tulisan
 ```HTML
 <p>Hai teman</p>
 ```
 - tag b dan i
+
 Tag yang digunakan untuk membuat tulisan tebal(<b>) dan miring(<i>)
 ```HTML
 <p><b>Hai teman</b></p>
@@ -183,18 +189,21 @@ Tag yang digunakan untuk membuat tulisan tebal(<b>) dan miring(<i>)
 ```
 
 - tag a
+
 Tag yang digunakan untuk menyertakan link di tulisan yang dapat di-klik
 ```HTML
 <p><a href="">Hai Teman</a></p>
 ```
 
 - tag img
+
 Tag yang digunakan untuk menampilkan gambar
 ```HTML
 <img src="https://e7.pngegg.com/pngimages/471/1009/png-clipart-lion-graphy-lion-mammal-animals-thumbnail.png" alt="singa">
 ```
 
 - tag ol dan ul
+
 Tag yang digunakan untuk membuat list.
 ```HTML
 <ol>
@@ -210,6 +219,7 @@ Tag yang digunakan untuk membuat list.
 ```
 
 - Tag div
+
 Tag yang digunakan untuk membungkus tag-tag lain dan biasa digunakan untuk menetukan section seperti header,main,footer dll. 
 ```html
     <div>
@@ -221,7 +231,8 @@ Tag yang digunakan untuk membungkus tag-tag lain dan biasa digunakan untuk menet
 ### Semantic Tag
 Semantic tag atau semantic markup adalah sebutan untuk tag HTML yang memiliki 'arti' atau 'makna. Sedangkan tag seperti <div> yang tidak memiliki 'arti apa-apa' sering kita gunakan untuk membuat struktur halaman website. Penggunaan Semantic HTML tentunya akan mempermudah proses pengembangan web karena tag yang digunakan mudah dipahami oleh bahasa manusia.
 
-- <header>
+- Tag header
+
 Tag yang digunakan untuk menandakan bagian header dari website
 ```html
 <body>
@@ -229,7 +240,8 @@ Tag yang digunakan untuk menandakan bagian header dari website
     </header>
 </body>
 ```
-- <nav>
+- Tag nav
+
 Tag yang digunakan untuk menandakan bagian navigasi dari website
 ```html
 <body>
@@ -237,7 +249,8 @@ Tag yang digunakan untuk menandakan bagian navigasi dari website
     </nav>
 </body>
 ```
-- <section>
+- Tag section
+
 Tag yang digunakan untuk menandakan bagian konten dari website
 ```html
 <body>
@@ -245,7 +258,8 @@ Tag yang digunakan untuk menandakan bagian konten dari website
     </section>
 </body>
 ```
-- <footer>
+- Tag footer
+
 Tag yang digunakan untuk menandakan bagian footer dari website
 ```html
 <body>
