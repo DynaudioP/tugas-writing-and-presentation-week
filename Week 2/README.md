@@ -242,6 +242,7 @@ dapat kita gunakan untuk mengubah teks di dalam sebuah element
     ```
 
     Output :
+    
     ![textContent](https://github.com/DynaudioP/tugas-writing-and-presentation-week/blob/main/Week%202/gambar/textcontent.JPG)
 
 - Inner HTML
@@ -256,6 +257,7 @@ dapat kita gunakan untuk mengubah konten HTML di dalam sebuah element.
     ```
     
     Output :
+
     ![innerhtml](https://github.com/DynaudioP/tugas-writing-and-presentation-week/blob/main/Week%202/gambar/innerhtml.JPG)
 
 ### Membuat Elemen HTML
