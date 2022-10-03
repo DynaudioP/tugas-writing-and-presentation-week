@@ -1,5 +1,5 @@
 ﻿
-# Rangkuman Writing & Presentation Week 1
+# Rangkuman Writing & Presentation Week 2
 ## JavaScript Dasar
 ## Scope
  Scope adalah area dari cakupan kode agar bisa berjalan maupun diakses oleh kode lainnya. Terdapat tiga jenis scope, yakni global scope, local scope, dan block scope.
