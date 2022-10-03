@@ -242,7 +242,7 @@ dapat kita gunakan untuk mengubah teks di dalam sebuah element
     ```
 
     Output :
-    ![textContent](/gambar/textcontent.jpg)
+    ![textContent](https://github.com/DynaudioP/tugas-writing-and-presentation-week/blob/main/Week%202/gambar/textcontent.JPG)
 
 - Inner HTML
 dapat kita gunakan untuk mengubah konten HTML di dalam sebuah element.
@@ -256,7 +256,7 @@ dapat kita gunakan untuk mengubah konten HTML di dalam sebuah element.
     ```
     
     Output :
-    ![textContent](/gambar/innerhtml.jpg)
+    ![innerhtml](https://github.com/DynaudioP/tugas-writing-and-presentation-week/blob/main/Week%202/gambar/innerhtml.JPG)
 
 ### Membuat Elemen HTML
 Kita dapat menghadirkan elemen-elemen dengan memanfaatkan method createElement. Method ini akan mengambil tagname sebagai parameternya. Lalu menyimpannya dalam variabel. Ketika sudah tersipan, Anda cukup membuat beberapa konten.
