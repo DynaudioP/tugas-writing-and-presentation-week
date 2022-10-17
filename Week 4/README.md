@@ -158,7 +158,7 @@ Flexbox merupakan konsep pengaturan layout yang mengatur ukuran elemen Child dar
 ```
 
 ### Flexbox Property
-- display
+- display:
 Property ini memiliki nilai yang menentukan apakah sebuah elemen akan berbentuk block atau inline.
 
 ```CSS
@@ -166,7 +166,7 @@ Property ini memiliki nilai yang menentukan apakah sebuah elemen akan berbentuk 
 display: flex; /* atau inline-flex */
 }
 ``` 
-- flex-direction
+- flex-direction:
 kita bisa menentukan arah Main Axis Flex Container dimana elemen flex-item kita dirender. Ada 4 nilai yang ada pada Property ini, yakni row, row-reverse, column, dan column-reverse.
 
 ```CSS
@@ -176,7 +176,7 @@ kita bisa menentukan arah Main Axis Flex Container dimana elemen flex-item kita 
         flex-direction: row | row-reverse | column | column-reverse.
 }
 ```
-- justify-content 
+- justify-content:
 Property ini digunakan untuk mengatur alignment flex-item didalam Container di sepanjang main axis.
 
     ```CSS
@@ -186,7 +186,7 @@ Property ini digunakan untuk mengatur alignment flex-item didalam Container di s
     justify-content: flex-start | flex-end | center | space-around | space-between
     }
     ```
-- align-item
+- align-item:
 Jika justify-content mengatur alignment dengan basis Main Axis, maka align-item sebaliknya, menggunakan Cross Axis.
 
     ```CSS
@@ -195,7 +195,7 @@ Jika justify-content mengatur alignment dengan basis Main Axis, maka align-item 
     align-items: stretch | flex-start | flex-end | center | baseline;
     }
     ```
-- align-content
+- align-content:
 Kita bisa menggunakan align-content jika kita ingin mengatur container dengan lebih dari satu baris flex-item (multiline).
 
     ```CSS
@@ -205,7 +205,7 @@ Kita bisa menggunakan align-content jika kita ingin mengatur container dengan le
     align-content: stretch | flex-start | flex-end | center | space-between | space-around;
     }
         ```
-- flex-wrap
+- flex-wrap:
 Property ini membuat flex-item yang keluar dari batas flex-containernya dipindah ke baris baru.
 
     ```CSS
