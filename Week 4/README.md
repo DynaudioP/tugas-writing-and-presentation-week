@@ -313,11 +313,11 @@ Saya akan memberikan contoh komponen untuk membuat sebuah navbar
 
 Kita mungkin bisa menambahkan CSS namun akan sangat lama untuk membuatnya. Disini bootstrap menyediakan komponen yang dapat kita gunakan agar proses pembuatannya lebih cepat serta sudah responsif.
 
-![request]()
+![request](https://github.com/DynaudioP/tugas-writing-and-presentation-week/blob/main/Week%204/gambar/gambar%201.JPG)
 
 Navbar yang telah dibuat menggunakan juga sudah responsif tanpa adanya sentuhan CSS.
 
-![request]()
+![request](https://github.com/DynaudioP/tugas-writing-and-presentation-week/blob/main/Week%204/gambar/gambar%202.JPG)
 
 
 
