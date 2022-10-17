@@ -315,14 +315,14 @@ Kita mungkin bisa menambahkan CSS namun akan sangat lama untuk membuatnya. Disin
 
 <br>
 
-![request](https://github.com/DynaudioP/tugas-writing-and-presentation-week/blob/main/Week%204/gambar/gambar%201.JPG)
+![request](https://github.com/DynaudioP/tugas-writing-and-presentation-week/blob/main/Week%204/gambar/gambarr%201.JPG)
 
 
 Navbar yang telah dibuat menggunakan juga sudah responsif tanpa adanya sentuhan CSS.
 
 <br>
 
-![request](https://github.com/DynaudioP/tugas-writing-and-presentation-week/blob/main/Week%204/gambar/gambar%202.JPG)
+![request](https://github.com/DynaudioP/tugas-writing-and-presentation-week/blob/main/Week%204/gambar/gambarr%202.JPG)
 
 
 
