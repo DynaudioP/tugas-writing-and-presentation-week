@@ -159,14 +159,16 @@ Flexbox merupakan konsep pengaturan layout yang mengatur ukuran elemen Child dar
 
 ### Flexbox Property
 - display
- Property ini memiliki nilai yang menentukan apakah sebuah elemen akan berbentuk block atau inline.
+Property ini memiliki nilai yang menentukan apakah sebuah elemen akan berbentuk block atau inline.
+
 ```CSS
 .container {
 display: flex; /* atau inline-flex */
 }
 ``` 
 - flex-direction
- kita bisa menentukan arah Main Axis Flex Container dimana elemen flex-item kita dirender. Ada 4 nilai yang ada pada Property ini, yakni row, row-reverse, column, dan column-reverse.
+kita bisa menentukan arah Main Axis Flex Container dimana elemen flex-item kita dirender. Ada 4 nilai yang ada pada Property ini, yakni row, row-reverse, column, dan column-reverse.
+
 ```CSS
 .container {
         display: flex;
@@ -176,6 +178,7 @@ display: flex; /* atau inline-flex */
 ```
 - justify-content 
 Property ini digunakan untuk mengatur alignment flex-item didalam Container di sepanjang main axis.
+
     ```CSS
     .container {
     display: flex;
@@ -185,6 +188,7 @@ Property ini digunakan untuk mengatur alignment flex-item didalam Container di s
     ```
 - align-item
 Jika justify-content mengatur alignment dengan basis Main Axis, maka align-item sebaliknya, menggunakan Cross Axis.
+
     ```CSS
     .container {
     display: flex;
@@ -193,6 +197,7 @@ Jika justify-content mengatur alignment dengan basis Main Axis, maka align-item 
     ```
 - align-content
 Kita bisa menggunakan align-content jika kita ingin mengatur container dengan lebih dari satu baris flex-item (multiline).
+
     ```CSS
     .container {
     display: flex;
@@ -202,6 +207,7 @@ Kita bisa menggunakan align-content jika kita ingin mengatur container dengan le
         ```
 - flex-wrap
 Property ini membuat flex-item yang keluar dari batas flex-containernya dipindah ke baris baru.
+
     ```CSS
     .container {
     display: flex;
@@ -237,12 +243,6 @@ Didalam bootstrap terdapat 12 grid untuk keseluruhan halaman. Kita dapat membuat
 | col-lg | Ukuran besar, untuk 992px atau lebih |
 | col-xl | Ukuran sangat besar, untuk 1200px atau lebih |
 
-| Git | GitHub |
-| --- | ----------- |
-| Diakses secara offline | Diakses secara online |
-| Tidak memakai fitur user management | Menggunakan fitur user management |
-| Install software di penyimpanan lokal | Di-host melalui layanan cloud |
-| Fokus pada version control dan code sharing | Fokus pada source code hosting yang terpusat |
 
 ### Content di Bootstrap
 Kita bisa menggunakan konten bawan dari bootstrap
