@@ -20,6 +20,23 @@ Application programming interface atau API adalah seperangkat kode pemrograman y
 ### HTTP
 HTTP atau singkatan dari Hypertext Transfer Protocol merupakan protokol jaringan lapisan aplikasi (application layer) berfungsi membantu proses transfer data / informasi antar komputer. Protokol ini mampu mentrasnfer data seperti dokumen, file, gambar, audio hingga video.
 
+### HTTP Request
+adalah sebuah aktivitas dimana client meminta kepada Server.
+
+Contoh:
+![request](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview/http_request.png)
+
+Klien (browser) mengirimkan permintaan HTTP ke server; kemudian server mengembalikan respons ke klien. Tanggapan berisi informasi status tentang permintaan dan mungkin juga berisi konten yang diminta.
+
+Method-nya terdiri dari :
+- GET.
+- POST.
+- PUT.
+- HEAD.
+- DELETE.
+- PATCH.
+- OPTIONS.
+
 ### Async Await
 Async/Await digunakan untuk menghandle operasi asynchronous dengan syntax yang lebih mirip dengan synchronous.
 
@@ -40,22 +57,7 @@ const url = 'https://brachio.site/download';
 download(url);
 ```
 
-### HTTP Request
-adalah sebuah aktivitas dimana client meminta kepada Server.
 
-Contoh:
-![request](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview/http_request.png)
-
-Klien (browser) mengirimkan permintaan HTTP ke server; kemudian server mengembalikan respons ke klien. Tanggapan berisi informasi status tentang permintaan dan mungkin juga berisi konten yang diminta.
-
-Method-nya terdiri dari :
-- GET.
-- POST.
-- PUT.
-- HEAD.
-- DELETE.
-- PATCH.
-- OPTIONS.
 
 ## Git & Github Lanjutan
 ### Git Branch
